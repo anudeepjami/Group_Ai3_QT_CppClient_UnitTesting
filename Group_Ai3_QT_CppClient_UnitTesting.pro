@@ -6,7 +6,7 @@ CONFIG += qt warn_on depend_includepath testcase
 
 TEMPLATE = app
 
-SOURCES +=  tst_loginpage.cpp \
+SOURCES +=  tst_qtclientapp.cpp \
     nodeapicall.cpp
 
 HEADERS += \
