@@ -1,7 +1,4 @@
-QT += testlib \
-    quick \
-    widgets
-QT += gui core network
+QT += testlib gui core network widgets
 CONFIG += qt warn_on depend_includepath testcase
 
 TEMPLATE = app
